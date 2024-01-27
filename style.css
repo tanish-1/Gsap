@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: red;
+    font-size: 50px;
+}
+h2{
+    color: blue;
+    font-size: 45px;
+}
+h3{
+    color: indigo;
+    font-size: 40px;
+}
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+}
+#box1{
+    height: 345px;
+    width: 300px;
+    background-color: red;
+}
